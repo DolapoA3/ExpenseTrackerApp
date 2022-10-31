@@ -27,19 +27,19 @@ const DUMMY_EXPENSES = [
     id: 'e4',
     description: 'Some strawberries',
     amount: 4.38,
-    date: new Date('2021-3-22'),
+    date: new Date('2021-03-22'),
   },
   {
     id: 'e5',
     description: 'Aloe Vera plant',
     amount: 25.89,
-    date: new Date('2022-2-18'),
+    date: new Date('2022-02-18'),
   },
   {
     id: 'e6',
     description: 'A pair of trousers',
     amount: 21.99,
-    date: new Date('2022-01-14'),
+    date: new Date('2021-01-16'),
   },
   {
     id: 'e7',
@@ -51,13 +51,13 @@ const DUMMY_EXPENSES = [
     id: 'e8',
     description: 'Some strawberries',
     amount: 4.38,
-    date: new Date('2021-3-22'),
+    date: new Date('2021-03-22'),
   },
   {
     id: 'e9',
     description: 'Aloe Vera plant',
     amount: 25.89,
-    date: new Date('2022-2-18'),
+    date: new Date('2022-02-18'),
   },
 ];
 
